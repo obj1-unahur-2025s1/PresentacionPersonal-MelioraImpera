@@ -1,13 +1,14 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-# Programación con objetos I
-## Presentación Personal
+# Laura Belén Fernández
+## Un poco sobre mi
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es Laura Fernández
+- Vivo en Morón
+- Tengo 30 años
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Me gusta cantar y tocar la guitarra
+- Juego mucho Overwatch y League of Legends
