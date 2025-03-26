@@ -3,6 +3,8 @@
 # Laura Belén Fernández
 ## Un poco sobre mi
 
+![Foto_Lau](./foto.jpg)
+
 ### Datos Personales
 - Mi nombre es Laura Fernández
 - Vivo en Morón
